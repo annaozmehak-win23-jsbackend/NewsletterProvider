@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\NewsletterProvider\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3691467A-BB18-43A8-9C78-F0D5F68F6BF3}|NewsletterProvider\\NewsletterProvider.csproj|c:\\users\\anna\\documents\\javascriptbackendrepos\\newsletterprovider\\newsletterprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3691467A-BB18-43A8-9C78-F0D5F68F6BF3}|NewsletterProvider\\NewsletterProvider.csproj|solutionrelative:newsletterprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3691467A-BB18-43A8-9C78-F0D5F68F6BF3}|NewsletterProvider\\NewsletterProvider.csproj|c:\\users\\anna\\documents\\javascriptbackendrepos\\newsletterprovider\\newsletterprovider\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3691467A-BB18-43A8-9C78-F0D5F68F6BF3}|NewsletterProvider\\NewsletterProvider.csproj|solutionrelative:newsletterprovider\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3691467A-BB18-43A8-9C78-F0D5F68F6BF3}|NewsletterProvider\\NewsletterProvider.csproj|c:\\users\\anna\\documents\\javascriptbackendrepos\\newsletterprovider\\newsletterprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3691467A-BB18-43A8-9C78-F0D5F68F6BF3}|NewsletterProvider\\NewsletterProvider.csproj|solutionrelative:newsletterprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4C8B2F-AA33-469A-9CF8-D15BBFCAAF99}|Data\\Data.csproj|c:\\users\\anna\\documents\\javascriptbackendrepos\\newsletterprovider\\data\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 190,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -45,31 +45,30 @@
               "RelativeToolTip": "Data\\Contexts\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:42:18.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T11:42:18.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "local.settings.json",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\NewsletterProvider\\NewsletterProvider\\local.settings.json",
               "RelativeDocumentMoniker": "NewsletterProvider\\local.settings.json",
               "ToolTip": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\NewsletterProvider\\NewsletterProvider\\local.settings.json",
               "RelativeToolTip": "NewsletterProvider\\local.settings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-21T09:59:40.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\NewsletterProvider\\NewsletterProvider\\Program.cs",
               "RelativeDocumentMoniker": "NewsletterProvider\\Program.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\NewsletterProvider\\NewsletterProvider\\Program.cs",
               "RelativeToolTip": "NewsletterProvider\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T09:59:33.836Z",
               "EditorCaption": ""
