@@ -12,6 +12,7 @@ var host = new HostBuilder()
         services.AddApplicationInsightsTelemetryWorkerService();
         services.ConfigureFunctionsApplicationInsights();
 
+        // Use context.Configuration to access the configuration
         services.AddDbContext<DataContext>(x => x.UseSqlServer(context.Configuration.GetConnectionString("SiliconDatabase")));
 
     })

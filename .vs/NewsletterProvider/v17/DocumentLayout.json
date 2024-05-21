@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{3691467A-BB18-43A8-9C78-F0D5F68F6BF3}|NewsletterProvider\\NewsletterProvider.csproj|solutionrelative:newsletterprovider\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3C4C8B2F-AA33-469A-9CF8-D15BBFCAAF99}|Data\\Data.csproj|c:\\users\\anna\\documents\\javascriptbackendrepos\\newsletterprovider\\data\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4C8B2F-AA33-469A-9CF8-D15BBFCAAF99}|Data\\Data.csproj|solutionrelative:data\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3691467A-BB18-43A8-9C78-F0D5F68F6BF3}|NewsletterProvider\\NewsletterProvider.csproj|c:\\users\\anna\\documents\\javascriptbackendrepos\\newsletterprovider\\newsletterprovider\\functions\\subscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3691467A-BB18-43A8-9C78-F0D5F68F6BF3}|NewsletterProvider\\NewsletterProvider.csproj|solutionrelative:newsletterprovider\\functions\\subscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,8 +33,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 190,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\NewsletterProvider\\Data\\Contexts\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\Contexts\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\NewsletterProvider\\Data\\Contexts\\DataContext.cs",
+              "RelativeToolTip": "Data\\Contexts\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:42:18.792Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -39,7 +56,7 @@
               "RelativeDocumentMoniker": "NewsletterProvider\\local.settings.json",
               "ToolTip": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\NewsletterProvider\\NewsletterProvider\\local.settings.json",
               "RelativeToolTip": "NewsletterProvider\\local.settings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-21T09:59:40.655Z",
               "EditorCaption": ""
@@ -52,14 +69,14 @@
               "RelativeDocumentMoniker": "NewsletterProvider\\Program.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\NewsletterProvider\\NewsletterProvider\\Program.cs",
               "RelativeToolTip": "NewsletterProvider\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T09:59:33.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SubscribeEntity.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\NewsletterProvider\\Data\\Entities\\SubscribeEntity.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\SubscribeEntity.cs",
@@ -67,22 +84,20 @@
               "RelativeToolTip": "Data\\Entities\\SubscribeEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T09:56:31.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T09:56:31.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "dbo.Subscribers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/sqldatabase_silicon_win23_annaozmehak.database.windows.net/silicon_database/SqlAdmin/SqlTable/dbo.Subscribers.sql",
               "ToolTip": "dbo.Subscribers [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-21T09:30:51.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T09:30:51.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Subscribe.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\NewsletterProvider\\NewsletterProvider\\Functions\\Subscribe.cs",
               "RelativeDocumentMoniker": "NewsletterProvider\\Functions\\Subscribe.cs",
@@ -90,8 +105,7 @@
               "RelativeToolTip": "NewsletterProvider\\Functions\\Subscribe.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:07:56.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T10:07:56.171Z"
             }
           ]
         }
