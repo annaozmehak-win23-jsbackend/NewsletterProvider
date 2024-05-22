@@ -25,7 +25,7 @@ public class Subscribers(ILogger<Subscribers> logger, DataContext context)
         catch (Exception ex)
         {
             _logger.LogError(ex, "An error occurred while fetching subscribers.");
-            return new ObjectResult(new { Status = 500, Message = "Unable to get all subscribers right now" }); ;
+            return new BadRequestObjectResult(new { Status = 500, Message = "Unable to get all subscribers right now" });
         }
     }
 }
