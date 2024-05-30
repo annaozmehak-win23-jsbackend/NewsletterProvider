@@ -13,7 +13,7 @@ var host = new HostBuilder()
         services.ConfigureFunctionsApplicationInsights();
 
         // Use context.Configuration to access the configuration
-        services.AddDbContext<DataContext>(x => x.UseSqlServer(context.Configuration.GetConnectionString("SiliconDatabase")));
+        services.AddDbContext<DataContext>(x => x.UseSqlServer(Environment.GetEnvironmentVariable("SiliconDatabase")));
 
     })
     .Build();
